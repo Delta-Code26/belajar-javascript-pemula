@@ -1,0 +1,14 @@
+site_name: Belajar JavaScript dari Nol
+theme:
+  name: material
+
+nav:
+  - Beranda: index.md
+  - Dasar JavaScript:
+      - Hello World: dasar/01-hello-world.md
+      - Variabel: dasar/02-variabel.md
+      - Tipe Data: dasar/03-tipe-data.md
+      - Logika: dasar/04-logika.md
+      - Loop: dasar/05-loop.md
+      - Function: dasar/06-function.md
+  - Mini Project: mini-project.md

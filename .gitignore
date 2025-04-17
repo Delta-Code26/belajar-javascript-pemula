@@ -1,0 +1,4 @@
+# MkDocs build
+site/
+__pycache__/
+*.pyc
