@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Belajar JavaScript dari Nol 🚀
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Selamat datang di dokumentasi belajar JavaScript dari dasar banget!  
+Dokumentasi ini cocok buat pemula yang ingin belajar JavaScript langkah demi langkah, dari console log sampai bikin mini project.
 
-## Commands
+> Kamu akan jadi jago JavaScript, satu console.log() pada satu waktu 😎
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
+
