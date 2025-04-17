@@ -18,3 +18,4 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Deploy
 'mkdocs gh-deploy' - maka akan auto live di https://<username>.github.io/<repo-kamu>
+Remote : https://github.com/Delta-Code26/belajar-javascript-pemula/pull/new/gh-pages
