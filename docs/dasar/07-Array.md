@@ -158,3 +158,9 @@ Bonus: Tampilkan jumlah total buah setelah perubahan
 
 Next: Kita bisa lanjut ke **Object** — karena kadang data nggak cukup disimpan di array doang, kita butuh struktur yang lebih rapi dan bermakna. 🗂️  
 Mau lanjut ke file `08-object.md`? Bilang aja: **"Lanjut ke object!"** dan kita gaspol 💨
+
+---
+
+<div align='center'>
+⬅️ [Kembali](06-Function.md) | 🏠 [Beranda](../../index.md) | [Lanjut ➡️](08-Object.md)
+</div>

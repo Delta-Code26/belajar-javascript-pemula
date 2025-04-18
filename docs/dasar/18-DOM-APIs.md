@@ -171,3 +171,9 @@ document.getElementById("judul").style.color = "blue";
 Sekarang JavaScript kamu udah bisa **hidup di browser**, bro!  
 Next bisa lanjut ke topik **event bubbling**, **form validation**, atau mulai masuk ke **DOM traversal dan manipulasi kelas**!  
 Kalo udah panas, tinggal gas ke **project mini** biar makin skill up 💪🔥
+
+---
+
+<div align='center'>
+⬅️ [Kembali](17-Functions.md) | 🏠 [Beranda](../../index.md) | [Lanjut ➡️](19-Strict-Mode.md)
+</div>

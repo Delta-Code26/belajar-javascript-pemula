@@ -1,5 +1,3 @@
-
-
 # 🧠 Variabel di JavaScript 👑
 
 > "Variabel itu seperti Tupperware—buat nyimpan isi. Bedanya, kalau hilang, nggak dimarahin emak." — Dev waras.
@@ -76,13 +74,38 @@ console.log("Nama baru saya:", nama);
 ---
 
 ## 📦 Peraturan Main
+<table align="left">
+<th>Keyword</th>
+<th>Bisa Diubah</th>
+<th>Bisa Dideklarasi Ulang</th>
+<th>Keterangan</th>
+<tr align="center">
+<td>var</td>
+<td>✅</td>
+<td>✅</td>
+<td>Jangan sering digunakan</td>
+</tr>
+<tr align="center">
+<td>let</td>
+<td>✅</td>
+<td>❌</td>
+<td>Rekomendasi Utama</td>
+</tr>
+<tr align="center">
+<td>const</td>
+<td>❌</td>
+<td>❌</td>
+<td>Bisa nilai tetap</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
 
-| Keyword | Bisa Diubah | Bisa Deklarasi Ulang | Keterangan         |
-|---------|-------------|----------------------|--------------------|
-| var     | ✅          | ✅                   | Jangan sering dipakai 😅 |
-| let     | ✅          | ❌                   | Rekomendasi utama 👍 |
-| const   | ❌          | ❌                   | Buat nilai tetap 🔒 |
-
+-----
 ---
 
 ## 🧠 Quiz Mini
@@ -130,4 +153,14 @@ Hobi saya ngoding di kebun sawit 🌴💻
 
 ---
 
-## || [BACK](./01-hello-world.md) || [NEXT](./03-Tipe-Data.md) || [HOME](../index.md)  
+<div align="center">
+
+## ⬅️ [Kembali](../dasar/01-hello-world.md) &nbsp;&nbsp;|&nbsp;&nbsp; 🏠 [Beranda](../index.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Lanjut ➡️](../dasar/03-Tipe-Data.md)
+
+</div>
+
+---
+
+<div align='center'>
+⬅️ [Kembali](01-hello-world.md) | 🏠 [Beranda](../../index.md) | [Lanjut ➡️](03-Tipe-Data.md)
+</div>

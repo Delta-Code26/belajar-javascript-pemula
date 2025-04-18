@@ -1,36 +1,22 @@
-site_name: Belajar JavaScript [DELTA_CODE]
+site_name: Belajar JavaScript Pemula
+nav:
+  - Home: index.md
+  - Dasar:
+      - "01. Hello World": dasar/01-hello-world.md
+      - "02. Variabel": dasar/02-Variabel.md
+      # lanjutkan dengan file lainmu
 theme:
   name: material
-  language: id
 
-nav:
-  - Beranda: index.md
-  - Dasar JavaScript:
-      - Hello World: dasar/01-hello-world.md
-      - Variabel: dasar/02-Variabel.md
-      - Tipe Data: dasar/03-Tipe-Data.md
-      - Logika: dasar/04-Logika.md
-      - Loop: dasar/05-Loop.md
-      - Function: dasar/06-Function.md
-      - Array: dasar/07-Array.md
-      - Object: dasar/08-Object.md
-      - JSON: dasar/09-JSON.md
-      - Type Casting: dasar/10-Type-Casting.md
-      - Data Structure: dasar/11-Data-Structure.md
-      - Equality Comparison: dasar/12-Equality-Comparison.md
-      - Loops and Iterations: dasar/13-Loops-and-Iterations.md
-      - Expressions and Operators: dasar/14-Expressions-and-Operators.md
-      - Control Flow: dasar/15-Control-Flow.md
-      - Function: dasar/06-Function.md
-      - DOM APIs: dasar/18-DOM-APIs.md
-      - Strict Mode: dasar/19-strict-mode.md
-      - Using Keyword: dasar/20-Using-keyword.md
-      - Asynchronous: dasar/21-Asynchronous-Javascript.md
-      - Modules: dasar/22-Modules-in-JavaScript.md
-      - Iterators and Generators: dasar/23-Iterators-and-Generators.md
-      - Classes: dasar/24-Classes.md
-      - Working with APIs: dasar/25-Working-with-APIs.md
-      - Memory Management: dasar/26-Memory-Management.md
-      - Using Browser DevTools: dasar/27-Using-Browser-DevTools.md
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - codehilite
+  - footnotes
+  - meta
+  - pymdownx.superfences
+  - pymdownx.tabbed
 
-  - Mini Project: mini-project.md
+plugins:
+  - search

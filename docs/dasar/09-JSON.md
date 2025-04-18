@@ -127,3 +127,9 @@ Sekarang kita sudah masuk ke dunia **JSON**! Dengan ini, kamu bisa mulai menghub
 Selanjutnya, kita bisa masuk ke **Asynchronous JavaScript**, yaitu cara untuk menangani operasi yang butuh waktu lama, kayak fetching data dari API 🕑🚀
 
 Mau lanjut ke materi **Asynchronous JavaScript** atau ada topik lainnya yang ingin dikejar? 😎
+
+---
+
+<div align='center'>
+⬅️ [Kembali](08-Object.md) | 🏠 [Beranda](../../index.md) | [Lanjut ➡️](10-Type-Casting.md)
+</div>

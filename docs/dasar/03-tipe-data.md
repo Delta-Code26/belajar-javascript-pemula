@@ -136,13 +136,16 @@ console.log(typeof x);
 let data = 123;      // number
 data = "seratus";    // sekarang jadi string
 ```
+---
+
+<div align="center">
+
+## ⬅️ [Kembali](./02-Variabel.md.md) &nbsp;&nbsp;|&nbsp;&nbsp; 🏠 [Beranda](../index.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Lanjut ➡️](./04-Logika.md.md)
+
+</div>
 
 ---
 
-## 🔁 Kembali ke [Daftar Materi](../../index.md)
-```
-
----
-
-Gas lagi? Kalau kamu bilang: **"Lanjut ke logika!"**  
-Gue siapin `04-logika.md` lengkap sama operator dan humor seger 🤓✨
+<div align='center'>
+⬅️ [Kembali](02-Variabel.md) | 🏠 [Beranda](../../index.md) | [Lanjut ➡️](04-Logika.md)
+</div>

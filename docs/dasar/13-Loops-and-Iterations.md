@@ -164,3 +164,9 @@ Karena `do...while` akan jalan dulu baru cek kondisi.
 
 Siip~ dengan ini kamu udah paham looping dasar di JavaScript.  
 Kalau mau lanjut, kita bisa bahas **`Array.prototype.map`, `filter`, `reduce`**, atau langsung ke **asynchronous loop** kayak `for await...of`. Tinggal bilang aja yaa 🚀
+
+---
+
+<div align='center'>
+⬅️ [Kembali](12-Equality-Comparisons.md) | 🏠 [Beranda](../../index.md) | [Lanjut ➡️](14-Expressions-and-Operators.md)
+</div>

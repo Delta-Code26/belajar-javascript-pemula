@@ -1,4 +1,4 @@
- Oke, kita siap buat bahas topik yang cukup powerful dan penting di JavaScript:  
+Oke, kita siap buat bahas topik yang cukup powerful dan penting di JavaScript:  
 **Asynchronous JavaScript** — yaitu bagaimana cara kita menangani proses yang nggak langsung selesai dan membutuhkan waktu, kayak permintaan ke server, pengolahan file, atau event user.
 
 Berikut isi lengkap untuk file:  
@@ -196,3 +196,9 @@ ambilData();
 Sekarang, lo udah paham cara kerja **asynchronous JavaScript** yang keren ini.  
 Dengan `callbacks`, **Promises**, dan **async/await**, lo bisa menghandle proses-proses berat tanpa ngacauin alur eksekusi program lo!  
 Mau lanjut ke topik **Event Loop** atau **Web APIs**? Kita gas terus aja! 💪🚀
+
+---
+
+<div align='center'>
+⬅️ [Kembali](20-Using-keyword.md) | 🏠 [Beranda](../../index.md) | [Lanjut ➡️](22-Modules-in-Javascript.md)
+</div>

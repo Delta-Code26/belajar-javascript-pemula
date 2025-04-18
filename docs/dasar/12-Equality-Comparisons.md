@@ -153,3 +153,9 @@ Karena keduanya di-coerce ke number 0.
 
 Gimana? Udah nggak tertipu `==` vs `===` lagi kan? 😎  
 Kalau kamu mau lanjut, kita bisa bahas tentang **Truthy & Falsy**, **Operator Logika**, atau masuk ke **Control Flow yang lebih dalam**. Kasih komando aja, komandan 🫡
+
+---
+
+<div align='center'>
+⬅️ [Kembali](11-Data-Structures.md) | 🏠 [Beranda](../../index.md) | [Lanjut ➡️](13-Loops-and-Iterations.md)
+</div>

@@ -157,3 +157,9 @@ Next: Kita bisa lanjut ke **Array dan metode-metodenya** — karena data itu asy
 Bilang aja: **"Lanjut ke array!"** dan kita buatkan file `07-array.md`!
 
 Atau mau tambahin latihan coding interaktif buat tiap fungsi? Bisa juga!
+
+---
+
+<div align='center'>
+⬅️ [Kembali](05-Loop.md) | 🏠 [Beranda](../../index.md) | [Lanjut ➡️](07-Array.md)
+</div>

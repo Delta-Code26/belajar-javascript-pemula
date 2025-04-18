@@ -166,3 +166,9 @@ if (nilai > 80) {
 
 Kalau udah paham ini, kamu udah bisa "ngoding mikir" 💡  
 Next kita bisa lanjut ke topik seru kayak **Error Handling**, **Asynchronous JavaScript (Promise & async/await)**, atau **DOM Manipulation**. Tinggal bilang, bro! 🧠⚡
+
+---
+
+<div align='center'>
+⬅️ [Kembali](13-Loops-and-Iterations.md) | 🏠 [Beranda](../../index.md) | [Lanjut ➡️](15-Control-flow.md)
+</div>

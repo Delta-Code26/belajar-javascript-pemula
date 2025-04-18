@@ -7,6 +7,8 @@ Dokumentasi ini cocok buat pemula yang ingin belajar JavaScript langkah demi lan
 
 Selamat malam
 
+---
 
-
-
+<div align='center'>
+[Lanjut ➡️](01-hello-world.md)
+</div>

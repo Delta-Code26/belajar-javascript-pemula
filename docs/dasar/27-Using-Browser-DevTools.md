@@ -1,5 +1,3 @@
-
-
 ```markdown
 # 🛠️ Using Browser DevTools for Debugging
 
@@ -137,3 +135,9 @@ Tab **Performance** memungkinkan kamu untuk menganalisis kinerja aplikasi web, s
 
 ## 🔁 Kembali ke [Daftar Materi](../../index.md)
 ```
+
+---
+
+<div align='center'>
+⬅️ [Kembali](26-Memory-Management.md) | 🏠 [Beranda](../../index.md)
+</div>

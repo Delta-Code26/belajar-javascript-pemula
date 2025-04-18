@@ -158,3 +158,9 @@ laptop.tampilkan();
 
 Berikutnya kita bisa lanjut ke **JSON** (JavaScript Object Notation), yang sering banget dipakai buat kirim data antar aplikasi via API.  
 Mau lanjut ke **JSON** atau ada materi lain yang ingin diperdalam? 😎
+
+---
+
+<div align='center'>
+⬅️ [Kembali](07-Array.md) | 🏠 [Beranda](../../index.md) | [Lanjut ➡️](09-JSON.md)
+</div>

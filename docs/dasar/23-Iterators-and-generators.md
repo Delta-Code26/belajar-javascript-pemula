@@ -181,3 +181,9 @@ Di sini, kita menggunakan generator untuk menangani proses asynchronous dengan c
 
 Dengan topik **Iterators** dan **Generators** di JavaScript, kamu bisa menangani koleksi data dan proses yang membutuhkan alur bertahap dengan cara yang lebih efisien.  
 Jangan lupa untuk eksplor lebih lanjut tentang **async generators** atau **streaming data** untuk kebutuhan aplikasi yang lebih kompleks! 🚀
+
+---
+
+<div align='center'>
+⬅️ [Kembali](22-Modules-in-Javascript.md) | 🏠 [Beranda](../../index.md) | [Lanjut ➡️](24-Classes.md)
+</div>

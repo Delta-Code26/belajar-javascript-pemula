@@ -165,3 +165,9 @@ Karena `+` digunakan, jadi string "5" + 2 di-coerce jadi string.
 
 Udah makin jago nih kamu, Marno! 🔥  
 Abis ini kita bisa lanjut ke **null vs undefined**, **operator perbandingan**, atau **truthy & falsy values**. Mau lanjut ke mana, bosku?
+
+---
+
+<div align='center'>
+⬅️ [Kembali](09-JSON.md) | 🏠 [Beranda](../../index.md) | [Lanjut ➡️](11-Data-Structures.md)
+</div>

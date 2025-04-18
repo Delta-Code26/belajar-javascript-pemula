@@ -127,3 +127,9 @@ console.log("Halo", nama);
 ---
 
 Kalau kamu setuju, gue bisa buatin juga file `02-variabel.md` dengan gaya yang sama. Mau lanjut ke situ? Cukup bilang: **"Lanjut ke variabel!"** 🧠⚡
+
+---
+
+<div align='center'>
+⬅️ [Kembali](index.md) | 🏠 [Beranda](../../index.md) | [Lanjut ➡️](02-Variabel.md)
+</div>

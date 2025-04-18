@@ -148,3 +148,9 @@ console.log(x);
 Udah siap jadi programmer disiplin? 😎  
 Dengan `strict mode`, JavaScript lo makin rapih, bug makin minim, dan mental kode makin kuat!  
 Next kita bisa lanjut bahas **ES6 modules**, **error handling**, atau **debugging 101**. Gas terus, bro! 🏁🔥
+
+---
+
+<div align='center'>
+⬅️ [Kembali](18-DOM-APIs.md) | 🏠 [Beranda](../../index.md) | [Lanjut ➡️](20-Using-keyword.md)
+</div>

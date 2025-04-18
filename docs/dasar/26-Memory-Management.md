@@ -146,3 +146,9 @@ Memahami manajemen memori sangat penting dalam mengembangkan aplikasi JavaScript
 ---
 
 Dokumentasi ini memberikan panduan yang komprehensif mengenai **manajemen memori** di JavaScript. Mulai dari konsep dasar tentang garbage collection hingga cara menghindari memory leaks yang dapat mempengaruhi performa aplikasi.
+
+---
+
+<div align='center'>
+⬅️ [Kembali](25-Working-with-APIs.md) | 🏠 [Beranda](../../index.md) | [Lanjut ➡️](27-Using-Browser-DevTools.md)
+</div>

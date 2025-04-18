@@ -151,3 +151,9 @@ Bonus: Tambahkan logika jika umur negatif → tampilkan "Umur gak valid"
 
 Kalau kamu udah siap mental, kita bisa lanjut ke `05-function.md` buat ngebahas **fungsi-fungsi** alias jurus pamungkas pemrograman!  
 Bilang aja: **"Lanjut ke fungsi!"** dan kita gas lagi! 🧙‍♂️✨
+
+---
+
+<div align='center'>
+⬅️ [Kembali](03-Tipe-Data.md) | 🏠 [Beranda](../../index.md) | [Lanjut ➡️](05-Loop.md)
+</div>

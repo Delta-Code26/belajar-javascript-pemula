@@ -170,3 +170,9 @@ console.log(angka[3]);
 
 Sip, satu langkah lebih deket jadi **JavaScript Jagoan** 💪  
 Mau lanjut ke **null & undefined**, atau langsung ke **function lanjutan** atau mungkin eksplor **Map & Set** lebih dalam? Kasih kode aja, bro 😎
+
+---
+
+<div align='center'>
+⬅️ [Kembali](10-Type-Casting.md) | 🏠 [Beranda](../../index.md) | [Lanjut ➡️](12-Equality-Comparisons.md)
+</div>

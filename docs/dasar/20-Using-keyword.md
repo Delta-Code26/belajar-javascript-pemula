@@ -205,3 +205,9 @@ console.log(orang);  // { nama: "Marno" }
 
 Itulah pembahasan mengenai **keyword** yang sering dipake di JavaScript!  
 Kalo udah ngerti ini, lo siap buat ngoding dengan konsep yang lebih kuat dan fleksibel. Mau lanjut ke **modul ES6**, **async/await**, atau eksplorasi **JavaScript design patterns**? Lanjut terus aja, bro! 🚀
+
+---
+
+<div align='center'>
+⬅️ [Kembali](19-Strict-Mode.md) | 🏠 [Beranda](../../index.md) | [Lanjut ➡️](21-Asynchronous-Javascript.md)
+</div>

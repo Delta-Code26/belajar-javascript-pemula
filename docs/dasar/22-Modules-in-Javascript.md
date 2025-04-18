@@ -187,3 +187,9 @@ Dengan dynamic import, modul hanya akan dimuat saat dibutuhkan, meningkatkan efi
 
 Sekarang kamu sudah paham betul soal **modules di JavaScript**! Dengan memanfaatkan **export** dan **import**, kamu bisa membagi aplikasi JavaScript menjadi bagian-bagian kecil yang rapi dan mudah dikelola.  
 Lanjut terus, dan kita bisa bahas lebih lanjut tentang **bundling tools** atau **JavaScript libraries** lainnya! 🚀
+
+---
+
+<div align='center'>
+⬅️ [Kembali](21-Asynchronous-Javascript.md) | 🏠 [Beranda](../../index.md) | [Lanjut ➡️](23-Iterators-and-generators.md)
+</div>

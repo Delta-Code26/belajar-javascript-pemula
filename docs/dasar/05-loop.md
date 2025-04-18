@@ -155,3 +155,9 @@ Kalau kamu mau lanjut bahas jurus sakti berikutnya: **fungsi!**
 Bilang aja: **"Lanjut ke fungsi!"** dan kita bakal bikin `06-fungsi.md` bareng 🧙‍♂️✨
 
 Mau lanjut atau rehat dulu, Bos Marno? 😎
+
+---
+
+<div align='center'>
+⬅️ [Kembali](04-Logika.md) | 🏠 [Beranda](../../index.md) | [Lanjut ➡️](06-Function.md)
+</div>

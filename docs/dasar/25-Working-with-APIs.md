@@ -230,3 +230,9 @@ Sekarang kamu telah mempelajari cara bekerja dengan **API** menggunakan JavaScri
 ```
 ---
 ## [BACK](./24-Classes.md)    ---    [HOME](../index.md) --- [NEXT](./26-Memory-Management.md)
+
+---
+
+<div align='center'>
+⬅️ [Kembali](24-Classes.md) | 🏠 [Beranda](../../index.md) | [Lanjut ➡️](26-Memory-Management.md)
+</div>

@@ -150,3 +150,9 @@ Apa output dari kode di atas?
 
 Gokil! Sekarang kamu udah ngerti cara bikin kode "milih jalan" kayak di game RPG 🎮  
 Kalau siap, kita bisa lanjut ke topik yang lebih dalam seperti **fungsi callback**, **async/await**, atau mulai ngulik ke **DOM dan event listener**. Let's go! 🚀
+
+---
+
+<div align='center'>
+⬅️ [Kembali](14-Expressions-and-Operators.md) | 🏠 [Beranda](../../index.md) | [Lanjut ➡️](17-Functions.md)
+</div>

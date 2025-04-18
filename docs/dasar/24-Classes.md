@@ -258,3 +258,9 @@ Dengan **getter** dan **setter**, kita bisa mengontrol akses terhadap properti o
 
 Sekarang kamu sudah paham konsep dasar **classes** di JavaScript, dan bagaimana cara menggunakannya untuk mendefinisikan objek serta memanfaatkan fitur seperti **inheritance**, **static methods**, dan **getter/setter**.  
 Lanjutkan eksplorasi ke topik lainnya dan gunakan konsep ini dalam pembuatan aplikasi yang lebih kompleks! 🚀
+
+---
+
+<div align='center'>
+⬅️ [Kembali](23-Iterators-and-generators.md) | 🏠 [Beranda](../../index.md) | [Lanjut ➡️](25-Working-with-APIs.md)
+</div>
