@@ -1,7 +1,6 @@
 
 
-```markdown
-# 🧠 Variabel di JavaScript
+# 🧠 Variabel di JavaScript 👑
 
 > "Variabel itu seperti Tupperware—buat nyimpan isi. Bedanya, kalau hilang, nggak dimarahin emak." — Dev waras.
 
@@ -131,11 +130,4 @@ Hobi saya ngoding di kebun sawit 🌴💻
 
 ---
 
-## 🔁 Kembali ke [Daftar Materi](../../index.md)
-```
-
----
-
-Kalau kamu mau lanjut lagi, tinggal bilang:  
-**"Lanjut ke tipe data!"** biar langsung gue buatin `03-tipe-data.md` 🔥  
-Let's build this documentation empire bareng-bareng, Marno! 🧱👑
+## || [BACK](./01-hello-world.md) || [NEXT](./03-Tipe-Data.md) || [HOME](../index.md)  
